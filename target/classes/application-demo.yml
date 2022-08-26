@@ -1,0 +1,13 @@
+spring:
+  config:
+    use-legacy-processing: true
+  profiles:
+    active: @spring.profiles.active@
+server:
+  port: 5000
+app:
+  datasource:
+    jdbc-url: jdbc:postgresql://fullstackspringbootdb.ctsxliohb6ls.ap-south-1.rds.amazonaws.com:5432/student
+    username: postgres
+    password: password
+    pool-size: 30

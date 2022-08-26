@@ -1,0 +1,11 @@
+/home/archi/spring projects/Student/src/main/java/com/ambcode/Student/dataAccessService/StudentDataAccessService.java
+/home/archi/spring projects/Student/src/main/java/com/ambcode/Student/Controller/StudentController.java
+/home/archi/spring projects/Student/src/main/java/com/ambcode/Student/model_Entity/Student.java
+/home/archi/spring projects/Student/src/main/java/com/ambcode/Student/exeception/ApiRequestException.java
+/home/archi/spring projects/Student/src/main/java/com/ambcode/Student/service/StudentService.java
+/home/archi/spring projects/Student/src/main/java/com/ambcode/Student/StudentApplication.java
+/home/archi/spring projects/Student/src/main/java/com/ambcode/Student/datasource/Datasource.java
+/home/archi/spring projects/Student/src/main/java/com/ambcode/Student/exeception/ApiException.java
+/home/archi/spring projects/Student/src/main/java/com/ambcode/Student/exeception/ApiExceptionHandler.java
+/home/archi/spring projects/Student/src/main/java/com/ambcode/Student/EmailValidator.java
+/home/archi/spring projects/Student/src/main/java/com/ambcode/Student/model_Entity/StudentCourse.java

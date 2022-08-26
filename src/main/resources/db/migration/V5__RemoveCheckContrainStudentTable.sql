@@ -1,0 +1,1 @@
+ALTER table student DROP CONSTRAINT student_gender_check;

@@ -1,0 +1,13 @@
+spring:
+  config:
+    use-legacy-processing: true
+  profiles:
+    active: @spring.profiles.active@
+server:
+  port: 8081
+app:
+  datasource:
+    jdbc-url: jdbc:postgresql://localhost:5432/student
+    username: postgres
+    password: password
+    pool-size: 30
